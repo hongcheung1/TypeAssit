@@ -1,0 +1,58 @@
+Sumedha Mehta 15-112ProtyperTime Sheet:* 12:00-2:00 PM November 21, 2015 (2 HOURS)o Created prototype splash screeno Experimented with alphabet objects 
+* 4:00-8:00 PM November 22, 2015 (4 HOURS)o Added Imageso Added functionality to images so that they display which finger displays what keyo Added accuracy featureo Attempted to incorporate sound using import os --> Failed
+* 12:30-1:30 PM November 24, 2015 (1 HOUR)o Worked on creating updates for typing mistakes
+o Attempted to install and use pyttsx (text to speech)
+o Researched simple ML 
+* 1:00 - 7:00PM November 26, 2015 (6 HOURS)
+o Found out pyttsx will not work simultaneously with Tkinter
+o Spent time trying to use multithreading to implement pyttsxwith tkinter
+o Implemented an alternative through os
+
+* 8:00PM -12:00AM November 27th, 2015 (4 HOURS)
+o Created ways for user’s errors to be logged so program could use them to test the User on weak spots.
+o Realized this only works for random letters. Need a way to also implement keystroke patterns to help user learn
+
+* 10:00AM -2:00PM November 28th, 2015 (4 HOURS)
+o found ways to extract common words to randomly generate for user
+o created algorithm to find words with similar keystrokes to words that the user is messing up on. —> not implemented yet. 
+
+* 7:00PM -8:00PM November 29th, 2015 (1 HOUR)
+o Worked on UI things (images etc)
+
+* 9:00PM - 1:00AM November 30, 2015 (4 HOURS)
+o worked on extracting words from file and usr/bin on mac os to get words to test the user
+o Worked on understanding Pickle to save user data, 
+o Created Login page, saving username etc. 
+
+* 3:00PM - 8:00PM December 2, 2015 (5 HOURS)
+o implemented Pickle to work with the program, save user data, retrieve after program is opened
+o Made UI better 
+
+
+*10:00-12:00PM December 4, 2015 (2 HOURS)
+oWorked on Machine Learning, Rewrote structure of program
+
+*10:00AM - 4:00PM December 5, 2015 (6 HOURS)
+oImplemented 4 Machine Learning Algorithms: 
+ - unigrams
+ - bigrams, trigrams (Markov Chains)
+ - Finger placement
+ - Keystroke Pattern
+
+*12:00PM - 6:00PM December 6, 2015 (6 HOURS)
+o Made better UI
+o Debugged a LOT
+o Finishing touches to structure of program
+o Worked on making the statistics page
+
+*4:00PM - 6:00PM December 7, 2015 (2 HOURS)
+o Fixed UI
+o Added UI features 
+
+*7:00PM-10:00PM December 8, 2015 (2 HOURS)
+oFixed a lot of Bugs
+
+*9:00-10:00PM
+oFilmed Video, fixed more bugs
+
+TOTAL = 47 HOURS
